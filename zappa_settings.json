@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "django_settings": "demo.settings",
+        "s3_bucket": "zappa-nh2as5j72"
+    }
+}
